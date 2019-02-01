@@ -1,0 +1,8 @@
+up
+3;
+down
+6;
+left
+4;
+right
+1;
